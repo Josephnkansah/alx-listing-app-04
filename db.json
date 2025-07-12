@@ -1,0 +1,17 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Ocean View Apartment",
+      "location": "Cape Coast",
+      "price": "GHS 250/night",
+      "image": "/images/ocean.jpg"
+    }
+  ],
+  "bookings": [
+    { "id": 1, "propertyId": 1, "guestName": "Joseph", "date": "2025-07-15" }
+  ],
+  "reviews": [
+    { "id": 1, "propertyId": 1, "review": "Nice place!", "rating": 5 }
+  ]
+}
